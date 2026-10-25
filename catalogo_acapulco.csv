@@ -1,0 +1,10 @@
+id,nombre,categoria,distintivo,icono,lat,lng,zona,telefono,whatsapp,descripcion
+1,Pescado a la Talla El Pariente,comercio,Restaurante,🐟,16.8578,-99.8710,Costera Dorada,7449876543,527449876543,Especialidad en mariscos y huachinango a la leña.
+2,Hospital Gral. Vicente Guerrero IMSS,emergencia,Hospital,🏥,16.8640,-99.8835,Ruiz Cortines,7444844000,,Atencion de urgencias 24 horas y trauma regional.
+3,Cruz Roja Costa Azul,emergencia,Puesto de Socorro,🚑,16.8525,-99.8550,Costa Azul,7444844000,,Ambulancias y base de socorro prehospitalario.
+4,Sitio Taxis La Diana,transporte,Taxi Local,🚕,16.8565,-99.8680,La Diana,7441112233,527441112233,Taxis azules y amarillos con base fija y servicio local.
+5,Terminal Urvans Costera - CDMX,transporte,Urvan Foranea,🚐,16.8610,-99.8890,Magallanes,7442223344,527442223344,Salidas directas a Taxquena y Puebla cada hora.
+6,Hotel Emporio Acapulco,turismo,Hotel,🏨,16.8550,-99.8700,Costera Central,7444162200,,Hospedaje de playa y salones de convenciones.
+7,Capitan Manuel - Pesca Deportiva,turismo,Guia Nautico,🎣,16.8485,-99.9056,Malecon Fiscal,7441234567,527441234567,Embarcacion de 32 pies especializada en pez vela y dorado.
+8,Dra. Carmen Mendoza,salud,Medico General,🩺,16.8588,-99.8655,Costa Azul,7444567891,527444567891,Consulta medica particular y certificados medicos.
+9,Refugio Temporal Instituto Tecnologico (ITA),emergencia,Albergue,🛡️,16.8378,-99.8242,Crucero Cayaco,7444140100,,Refugio temporal certificado con cota estructural alta.
