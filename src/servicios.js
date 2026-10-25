@@ -1,0 +1,176 @@
+export const SERVICIOS_ACAPULCO = [
+  // --- SEGURIDAD DE GÉNERO / PROTOCOLO VIOLETA ---
+  {
+    id: 401,
+    nombre: "Policía de Género / C5 Acapulco",
+    tipo: "Auxilio Inmediato Violeta",
+    categoria: "violeta",
+    icono: "🚨",
+    lat: 16.8530,
+    lng: -99.8735,
+    zona: "Costera Miguel Alemán",
+    tel: "911",
+    desc: "Unidad especializada en violencia de género y atención a mujeres.",
+    destacado: true
+  },
+  {
+    id: 402,
+    nombre: "Punto Seguro Hotel Emporio",
+    tipo: "Espacio de Resguardo Amigo",
+    categoria: "violeta",
+    icono: "🛡️",
+    lat: 16.8550,
+    lng: -99.8700,
+    zona: "Costera Central",
+    tel: "7444162200",
+    desc: "Lobby iluminado 24 horas, personal capacitado y resguardo preventivo.",
+    destacado: false
+  },
+  {
+    id: 403,
+    nombre: "Centro de Justicia para las Mujeres (Semujer)",
+    tipo: "Asistencia Legal y Médica",
+    categoria: "violeta",
+    icono: "⚖️",
+    lat: 16.8720,
+    lng: -99.8550,
+    zona: "Zona Urbana Acapulco",
+    tel: "7444855020",
+    desc: "Apoyo psicológico, médico y ministerial especializado para mujeres.",
+    destacado: false
+  },
+  // --- GUÍAS Y TURISMO ---
+  {
+    id: 1,
+    nombre: "Cap. Manuel - Pesca Altamar (Pez Vela)",
+    tipo: "Guía Turístico",
+    categoria: "turismo",
+    icono: "🎣",
+    lat: 16.8485,
+    lng: -99.9056,
+    zona: "Acapulco Tradicional / Malecón",
+    tel: "7441234567",
+    desc: "Embarcación 32ft en muelle fiscal. Especialidad pez vela y dorado.",
+    destacado: true
+  },
+  {
+    id: 2,
+    nombre: "AcaBuceo - Expedición Isla La Roqueta",
+    tipo: "Deportes Acuáticos",
+    categoria: "turismo",
+    icono: "🤿",
+    lat: 16.8315,
+    lng: -99.9040,
+    zona: "Caleta / La Roqueta",
+    tel: "7442345678",
+    desc: "Buceo certificado PADI, snorkel y tours arrecifes.",
+    destacado: false
+  },
+  {
+    id: 3,
+    nombre: "Guía Histórico Fuerte de San Diego",
+    tipo: "Cultura e Historia",
+    categoria: "turismo",
+    icono: "🏛️",
+    lat: 16.8503,
+    lng: -99.9022,
+    zona: "Centro Histórico",
+    tel: "7443456780",
+    desc: "Recorridos guiados sobre el Galeón de Manila y el fuerte pentagonal.",
+    destacado: false
+  },
+  // --- GASTRONOMÍA & COMERCIOS ---
+  {
+    id: 101,
+    nombre: "Mariscos & Pescado a la Talla El Pariente",
+    tipo: "Gastronomía Costeña",
+    categoria: "comercio",
+    icono: "🐟",
+    lat: 16.8578,
+    lng: -99.8710,
+    zona: "Acapulco Dorado / Costera",
+    tel: "7449876543",
+    desc: "Pescado a la talla estilo Barra Vieja y mariscos frescos frente al mar.",
+    destacado: true
+  },
+  {
+    id: 102,
+    nombre: "Pozolería Tradicional Los Arcos",
+    tipo: "Comida Típica",
+    categoria: "comercio",
+    icono: "🍲",
+    lat: 16.8590,
+    lng: -99.8820,
+    zona: "Magallanes",
+    tel: "7445678901",
+    desc: "Pozole verde y blanco estilo Guerrero los jueves y fines de semana.",
+    destacado: false
+  },
+  // --- SALUD Y PROFESIONALES ---
+  {
+    id: 201,
+    nombre: "Dra. Carmen Mendoza - Médica General",
+    tipo: "Médico Particular",
+    categoria: "salud",
+    icono: "🩺",
+    lat: 16.8588,
+    lng: -99.8655,
+    zona: "Costa Azul",
+    tel: "7444567891",
+    desc: "Consulta médica general, certificados y control preventivo familiar.",
+    destacado: true
+  },
+  {
+    id: 202,
+    nombre: "Lic. Roberto Salgado - Nutrición Clínica",
+    tipo: "Nutriólogo",
+    categoria: "salud",
+    icono: "🥗",
+    lat: 16.8595,
+    lng: -99.8800,
+    zona: "Fracc. Hornos",
+    tel: "7446789012",
+    desc: "Nutrición clínica deportiva, control de peso y planes de alimentación.",
+    destacado: false
+  },
+  // --- URGENCIAS, HOSPITALES & REFUGIOS ---
+  {
+    id: 301,
+    nombre: "Hospital General Regional 1 Vicente Guerrero (IMSS)",
+    tipo: "Urgencias Médicas",
+    categoria: "emergencia",
+    icono: "🏥",
+    lat: 16.8640,
+    lng: -99.8835,
+    zona: "Av. Ruiz Cortines",
+    tel: "7444844000",
+    desc: "Hospital de concentración regional, trauma y urgencias 24 horas.",
+    destacado: false
+  },
+  {
+    id: 302,
+    nombre: "Cruz Roja Mexicana Delegación Acapulco",
+    tipo: "Puesto de Socorro",
+    categoria: "emergencia",
+    icono: "🚑",
+    lat: 16.8540,
+    lng: -99.8520,
+    zona: "Costa Azul",
+    tel: "7444844000",
+    desc: "Base de ambulancias, rescate y primeros auxilios.",
+    destacado: false
+  },
+  {
+    id: 303,
+    nombre: "Refugio Temporal Habilitado - Instituto Tecnológico (ITA)",
+    tipo: "Albergue de Contingencia",
+    categoria: "emergencia",
+    icono: "🛡️",
+    lat: 16.8298,
+    lng: -99.8188,
+    zona: "El Cayaco / Llano Largo",
+    tel: "7444140100",
+    desc: "Refugio certificado en campus El Cayaco, capacidad estructural y cota alta.",
+    destacado: false
+  }
+];
